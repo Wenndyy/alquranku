@@ -2,9 +2,9 @@
 
 APi : https://equran.id/
 
-![Screenshot_1692008498](https://github.com/Wenndyy/alquranku/assets/110503759/bd76b0db-290b-483d-9337-7b72069f66bf)
+![Screenshot_1692008498](https://github.com/Wenndyy/alquranku/assets/110503759/bd76b0db-290b-483d-9337-7b72069f66bf | width=100)
 
-![Screenshot_1692008507](https://github.com/Wenndyy/alquranku/assets/110503759/4531486a-949a-4cc5-b205-2a9df56e1426)
+![Screenshot_1692008507](https://github.com/Wenndyy/alquranku/assets/110503759/4531486a-949a-4cc5-b205-2a9df56e1426 | width=100)
 
 ## Getting Started
 
