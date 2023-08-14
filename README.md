@@ -1,6 +1,6 @@
 # alquranku
 
-APi : https://equran.id/
+API : https://equran.id/
 
 ![Screenshot_1692008498](https://github.com/Wenndyy/alquranku/assets/110503759/bd76b0db-290b-483d-9337-7b72069f66bf)
 
