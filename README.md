@@ -3,8 +3,8 @@
 API : https://equran.id/
 
 
+![result](https://github.com/Wenndyy/alquranku/assets/110503759/b990c5e6-fbd0-4d2e-a591-0e574360cd4d)
 
-![Uploading result.png…]()
 
 
 ## Getting Started
